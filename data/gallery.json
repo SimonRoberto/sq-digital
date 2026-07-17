@@ -1,5 +1,5 @@
 {
-  "imageBase": "https://sq-test.zohosites.com.au/",
+  "imageBase": "sq-test.zohosites.com.au/gallery/",
   "pieces": [
     {
       "id": "AR-RS1-12345",
@@ -8,7 +8,7 @@
       "size": "100 × 100 cm",
       "priceFrom": 1450,
       "status": "available",
-      "image": "gallery/AR-RS1-12345.png",
+      "image": "AR-RS1-12345.png",
       "sortOrder": 1
     },
     {
@@ -18,7 +18,7 @@
       "size": "100 × 100 cm",
       "priceFrom": 1450,
       "status": "available",
-      "image": "gallery/AR-RR1-12345.png",
+      "image": "AR-RR1-12345.png",
       "sortOrder": 2
     },
     {
@@ -28,7 +28,7 @@
       "size": "100 × 100 cm",
       "priceFrom": 1450,
       "status": "sold",
-      "image": "gallery/AR-OF1-00999.png",
+      "image": "AR-OF1-00999.png",
       "sortOrder": 3
     },
     {
@@ -38,7 +38,7 @@
       "size": "100 × 100 cm",
       "priceFrom": 1450,
       "status": "available",
-      "image": "gallery/AR-EF1-20240.png",
+      "image": "AR-EF1-20240.png",
       "sortOrder": 4
     },
     {
@@ -48,7 +48,7 @@
       "size": "80 × 80 cm",
       "priceFrom": 980,
       "status": "hidden",
-      "image": "gallery/AR-BF1-00424.png",
+      "image": "AR-BF1-00424.png",
       "sortOrder": 5
     },
     {
@@ -58,7 +58,7 @@
       "size": "120 × 150 cm",
       "priceFrom": 2400,
       "status": "available",
-      "image": "gallery/AR-TF1-00777.png",
+      "image": "AR-TF1-00777.png",
       "sortOrder": 6
     }
   ]
