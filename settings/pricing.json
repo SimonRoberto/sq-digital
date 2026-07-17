@@ -1,1 +1,23 @@
 
+{
+  "currency": "NZD",
+  "updatedAt": "2026-07-17T00:00:00.000Z",
+  "originals": [
+    { "label": "40 \u00d7 40", "w": 40, "h": 40, "price": 390 },
+    { "label": "60 \u00d7 60", "w": 60, "h": 60, "price": 640 },
+    { "label": "80 \u00d7 80", "w": 80, "h": 80, "price": 980 },
+    { "label": "100 \u00d7 100", "w": 100, "h": 100, "price": 1450, "feature": true },
+    { "label": "120 \u00d7 150", "w": 120, "h": 150, "price": 2400 }
+  ],
+  "prints": {
+    "editionMultipliers": { "10": 1.45, "25": 1.0, "50": 0.85, "100": 0.75 },
+    "framingPct": 0.55,
+    "formats": [
+      { "label": "A3 \u00b7 29.7 \u00d7 42", "w": 29.7, "h": 42, "price": 180 },
+      { "label": "A2 \u00b7 42 \u00d7 59.4", "w": 42, "h": 59.4, "price": 260 },
+      { "label": "50 \u00d7 70", "w": 50, "h": 70, "price": 320 },
+      { "label": "A1 \u00b7 59.4 \u00d7 84.1", "w": 59.4, "h": 84.1, "price": 420 },
+      { "label": "70 \u00d7 100", "w": 70, "h": 100, "price": 560 }
+    ]
+  }
+}
