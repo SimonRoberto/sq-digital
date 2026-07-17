@@ -1,0 +1,65 @@
+{
+  "imageBase": "https://sq-test.zohosites.com.au/",
+  "pieces": [
+    {
+      "id": "AR-RS1-12345",
+      "title": "Red Study I",
+      "medium": "Acrylic on canvas",
+      "size": "100 × 100 cm",
+      "priceFrom": 1450,
+      "status": "available",
+      "image": "gallery/AR-RS1-12345.png",
+      "sortOrder": 1
+    },
+    {
+      "id": "AR-RR1-12345",
+      "title": "Ripple — Ground Rings",
+      "medium": "Acrylic on canvas",
+      "size": "100 × 100 cm",
+      "priceFrom": 1450,
+      "status": "available",
+      "image": "gallery/AR-RR1-12345.png",
+      "sortOrder": 2
+    },
+    {
+      "id": "AR-OF1-00999",
+      "title": "Ocean Field 400",
+      "medium": "Acrylic on canvas",
+      "size": "100 × 100 cm",
+      "priceFrom": 1450,
+      "status": "sold",
+      "image": "gallery/AR-OF1-00999.png",
+      "sortOrder": 3
+    },
+    {
+      "id": "AR-EF1-20240",
+      "title": "Ember Fall",
+      "medium": "Acrylic on canvas",
+      "size": "100 × 100 cm",
+      "priceFrom": 1450,
+      "status": "available",
+      "image": "gallery/AR-EF1-20240.png",
+      "sortOrder": 4
+    },
+    {
+      "id": "AR-BF1-00424",
+      "title": "Breathing Field",
+      "medium": "Acrylic on canvas",
+      "size": "80 × 80 cm",
+      "priceFrom": 980,
+      "status": "hidden",
+      "image": "gallery/AR-BF1-00424.png",
+      "sortOrder": 5
+    },
+    {
+      "id": "AR-TF1-00777",
+      "title": "Two Fields",
+      "medium": "Acrylic on canvas",
+      "size": "120 × 150 cm",
+      "priceFrom": 2400,
+      "status": "available",
+      "image": "gallery/AR-TF1-00777.png",
+      "sortOrder": 6
+    }
+  ]
+}
