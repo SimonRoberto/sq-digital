@@ -1,5 +1,5 @@
 {
-  "imageBase": "sq-test.zohosites.com.au/gallery/",
+  "imageBase": "https://sq-test.zohosites.com.au/gallery/",
   "pieces": [
     {
       "id": "AR-RS1-12345",
