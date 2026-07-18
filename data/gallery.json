@@ -64,7 +64,7 @@
   ],
   "scenes": [
     {
-      "name": "Living room",
+      "name": "At the beach",
       "image": "scenes/beach-scene.png",
       "rect": {
         "x": 0.4362,
@@ -74,7 +74,7 @@
       }
     },
     {
-      "name": "Lounge",
+      "name": "At another beach",
       "image": "scenes/beach-scene_2.png",
       "rect": {
         "x": 0.4705,
