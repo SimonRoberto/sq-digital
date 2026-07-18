@@ -67,20 +67,20 @@
       "name": "At the beach",
       "image": "scenes/beach-scene.png",
       "rect": {
-        "x": 0.4362,
-        "y": 0.2586,
-        "w": 0.2195,
-        "h": 0.4536
+        "x": 0.4646,
+        "y": 0.3389,
+        "w": 0.2127,
+        "h": 0.3722
       }
     },
     {
       "name": "At another beach",
       "image": "scenes/beach-scene_2.png",
       "rect": {
-        "x": 0.4705,
-        "y": 0.3211,
-        "w": 0.1265,
-        "h": 0.2438
+        "x": 0.463,
+        "y": 0.319,
+        "w": 0.1868,
+        "h": 0.3398
       }
     }
   ]
