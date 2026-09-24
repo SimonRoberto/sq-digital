@@ -3,7 +3,7 @@
   "pieces": [
     {
       "id": "AR-RS1-12345",
-      "title": "Red Study I",
+      "title": "Ripple",
       "medium": "Acrylic on canvas",
       "size": "100 × 100 cm",
       "priceFrom": 1450,
@@ -12,13 +12,13 @@
       "sortOrder": 1
     },
     {
-      "id": "AR-RR1-12345",
-      "title": "Ripple — Ground Rings",
+      "id": "AR-BF789A92",
+      "title": "Red Study II",
       "medium": "Acrylic on canvas",
       "size": "100 × 100 cm",
       "priceFrom": 1450,
       "status": "available",
-      "image": "AR-RR1-12345.png",
+      "image": "AR-BF789A92.png",
       "sortOrder": 2
     },
     {
